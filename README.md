@@ -1,3 +1,7 @@
+## Archived repo
+
+I'm not working on this any more, so the repo is getting archived. Feel free to fork it if it's useful :)
+
 # bWAPP
 
 This is just an instance of the OWASP [bWAPP project](http://www.itsecgames.com/) as a docker container.
